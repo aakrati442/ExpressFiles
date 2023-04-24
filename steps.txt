@@ -1,0 +1,9 @@
+create package.json file
+install express mongoose ejs path
+
+express.js
+import express
+express()
+get,put,delete
+get- set default page
+set the page requested by user
